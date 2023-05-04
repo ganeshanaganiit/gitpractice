@@ -1,0 +1,52 @@
+*{
+    background-color: cyan;
+
+}
+.container{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.red{
+    text-align: center;
+    font-size: xx-large;
+    color: brown;
+}
+#reset
+{
+    color: red;
+    background-color: white;
+    border-radius: 10%;
+    padding-right: 5px;
+    margin: 1rem;
+    /* width: 2px;    */
+
+      
+}
+.start{
+    color: red;
+    background-color: white;
+    border-radius: 10%;
+    padding-right: 5px;   
+    margin: 1rem;
+
+}
+
+.stop{
+    color: red;
+    background-color: white;
+    border-radius: 10%;
+    padding-right: 5px;
+    margin: 1rem;
+    /* height: 1px; */
+    /* width: 0px;   */
+  
+
+
+}
+p{
+    padding: 5px;
+    color: brown;
+    margin: 1rem;
+}
+
